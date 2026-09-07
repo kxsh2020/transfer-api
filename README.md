@@ -1,4 +1,4 @@
-# Transfer unlimited.surf API Worker
+# Transfer unlimited.surf API Worker （已失效）
 
 中文 | [English](#english)
 
